@@ -1,0 +1,12 @@
+body {
+    background-color: lightcyan;
+}
+
+h1{
+    text-align: center;
+}
+
+.first {
+    text-align: center;
+    line-height: 100px;
+}

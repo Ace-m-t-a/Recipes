@@ -1,0 +1,16 @@
+img {
+    height: auto;
+    width: 400px;
+}
+.one {
+    text-align: center;
+    color: blue;
+}
+
+.two {
+    text-align: center;
+}
+
+body {
+    background-color:coral ;
+}
